@@ -1,7 +1,7 @@
 Joel Ching
 joel.ching.kuma.mbanghanih@uni-jena.de
 Joel-Ching
-![alt text](PHOTO_Joel-1.jpg)
+![alt text](PHOTO_Joel.jpg)
 # :wave: The Basics of GitHub 
 
 **This is your first assignment.**  Read below to learn about GitHub, which we will be using extensively throughout BIOM 421.  When you get to the bottom, you will be asked to (1) write a new README for this repository, (2) write a very simple Python code, and (3) complete a preliminary Python notebook, and then (4) push these all to your GitHub Repository.
